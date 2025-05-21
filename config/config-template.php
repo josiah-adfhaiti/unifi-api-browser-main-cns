@@ -23,16 +23,10 @@
  */
 $controllers = [
     [
-        'user'     => 'demo',                    // Username for access to the UniFi Controller
-        'password' => 'demo',                    // Password for access to the UniFi Controller
-        'url'      => 'https://demo.ui.com:443', // Full URL to the UniFi Controller, e.g., 'https://22.22.11.11:8443'
-        'name'     => 'demo.ubnt.com',           // Name for this controller which will be used in the dropdown menu
-    ],
-    [
-        'user'     => 'demo2',                   // Username for access to the UniFi Controller
-        'password' => 'demo2',                   // Password for access to the UniFi Controller
-        'url'      => 'https://demo.ui.com:443', // Full URL to the UniFi Controller, e.g., 'https://22.22.11.11:8443'
-        'name'     => 'demo2.ubnt.com',          // Name for this controller which will be used in the dropdown menu
+        'user'     => 'josiahthomas7@gmail.com',                    // Username for access to the UniFi Controller
+        'password' => 'JLToss117!',                    // Password for access to the UniFi Controller
+        'url'      => 'http://192.168.0.1', // Full URL to the UniFi Controller, e.g., 'https://22.22.11.11:8443'
+        'name'     => 'cnsKayJosiahThomas',           // Name for this controller which will be used in the dropdown menu
     ],
 ];
 
